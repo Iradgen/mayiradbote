@@ -1,0 +1,11 @@
+{
+  "name": "iradbot",
+  "version": "1.0.0",
+  "description": "Un bon bot discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "+ping"
+  },
+  "author": "Iradgeniusman#0001",
+  "license": "ISC"
+}
